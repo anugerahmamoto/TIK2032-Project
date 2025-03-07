@@ -6,7 +6,7 @@ git config --global user.email "anugerahmamoto026@student.unsrat.ac.id"
 cek : 
 git init
 
-git remote add origin [https://github.com/anugerahmamoto/TIK2032-Project
+git remote add origin https://github.com/anugerahmamoto/TIK2032-Project
 
 setelah commit jangan lupa push :
 git push origin main
